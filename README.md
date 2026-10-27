@@ -297,6 +297,7 @@ SCREEN LOCKING
 - ![Zig](https://img.shields.io/badge/zig-%23f7a41d.svg?style=plastic&logo=zig&logoColor=fff) [waylock](https://codeberg.org/ifreund/waylock) - A small screen-locker for Wayland compositors implementing the `ext-session-lock-v1` protocol
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [wlgblock](https://github.com/AdoPi/wlgblock) - An emulator-based screen-locker for Wayland compositors implementing the `ext-session-lock-v1` protocol
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [wlock](https://codeberg.org/sewn/wlock) - A simple screen-locker for Wayland compositors that support the `ext-session-lock-v1` protocol
+- ![Go](https://img.shields.io/badge/go-%2300add8.svg?style=plastic&logo=go&logoColor=fff) [wscreensavers](https://github.com/chrisfair/wscreensavers) - A screensaver, idle daemon, and PAM screen-locker running WebGL scenes and XScreenSaver modules via the `wlr-layer-shell-unstable-v1`, `gtk3-layer-shell`, and `ext-idle-notify-v1` protocols
 
 SCREENCASTS
 -----------
@@ -407,6 +408,7 @@ WALLPAPER
 - ![Python](https://img.shields.io/badge/python-4584b6?style=plastic&logo=python&logoColor=ffde57) [Waypaper](https://github.com/anufrievroman/waypaper) - A GUI frontend for swaybg/swww to switch wallpapers
 - ![C](https://img.shields.io/badge/c-%23044f88.svg?style=plastic&logo=c&logoColor=fff) [wbg](https://codeberg.org/dnkl/wbg) - A simple wallpaper application for Wayland compositors implementing the `wlr-layer-shell-unstable-v1` protocol
 - ![Rust](https://img.shields.io/badge/rust-%23281c1c.svg?style=plastic&logo=rust&logoColor=fff) [wpaperd](https://github.com/danyspin97/wpaperd) - A wallpaper daemon that shows random wallpapers from a directory and changes them after some time
+- ![Go](https://img.shields.io/badge/go-%2300add8.svg?style=plastic&logo=go&logoColor=fff) [wscreensavers](https://github.com/chrisfair/wscreensavers) - A live wallpaper and screensaver suite rendering 3D WebGL visualizers and XScreenSaver modules on Wayland compositors implementing the `wlr-layer-shell-unstable-v1` and `gtk3-layer-shell` protocols
 - ![Zig](https://img.shields.io/badge/zig-%23f7a41d.svg?style=plastic&logo=zig&logoColor=fff) [yin](https://github.com/SaverinOnRails/yin) - An efficient animated wallpaper daemon for wlroots-based Wayland compositors implementing the `wlr-layer-shell-unstable-v1` protocol
 
 WIDGETS (BARS, PANELS, ETC.)
